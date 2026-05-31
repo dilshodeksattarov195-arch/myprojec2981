@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfpdate",
+        "uuid": 23135541,
+        "checksum": "6w21vn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
